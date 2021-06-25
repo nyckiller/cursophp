@@ -1,7 +1,6 @@
 <?php
 
-echo "Olá mundo!";
+echo "Olá mundo! Hello World!";
 
-echo "Teste";
-
+echo "Teste de conflito";
 ?>
